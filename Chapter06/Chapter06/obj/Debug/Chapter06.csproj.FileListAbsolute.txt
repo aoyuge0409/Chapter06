@@ -1,0 +1,10 @@
+C:\Users\Programming13\source\repos\Chapter06\Chapter06\bin\Debug\Chapter06.exe.config
+C:\Users\Programming13\source\repos\Chapter06\Chapter06\bin\Debug\Chapter06.exe
+C:\Users\Programming13\source\repos\Chapter06\Chapter06\bin\Debug\Chapter06.pdb
+C:\Users\Programming13\source\repos\Chapter06\Chapter06\obj\Debug\Chapter06.csprojAssemblyReference.cache
+C:\Users\Programming13\source\repos\Chapter06\Chapter06\obj\Debug\Chapter06.Form1.resources
+C:\Users\Programming13\source\repos\Chapter06\Chapter06\obj\Debug\Chapter06.Properties.Resources.resources
+C:\Users\Programming13\source\repos\Chapter06\Chapter06\obj\Debug\Chapter06.csproj.GenerateResource.cache
+C:\Users\Programming13\source\repos\Chapter06\Chapter06\obj\Debug\Chapter06.csproj.CoreCompileInputs.cache
+C:\Users\Programming13\source\repos\Chapter06\Chapter06\obj\Debug\Chapter06.exe
+C:\Users\Programming13\source\repos\Chapter06\Chapter06\obj\Debug\Chapter06.pdb
